@@ -287,7 +287,7 @@ Mendeteksi indikasi VPN, server, koneksi seluler
 * Layer 4 & 5 dapat dinonaktifkan di `osisurgery.py` untuk pemindaian cepat.
 * Jalankan sebagai **sudo** untuk akurasi Layer 2.
 * Setiap pemindaian menghasilkan **report dengan timestamp** di `/reports/`.
-* pengembangan lebih lanjut [tips dev](link)
+* pengembangan lebih lanjut [tips dev](https://github.com/Y0xDft07/OSI_surgery/blob/main/modules/R1.md)
 * buku membahas mengenai dasar-dasar jaringan yang telah saya pelajari [](link)
 
 ---
