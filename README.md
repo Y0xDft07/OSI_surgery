@@ -41,8 +41,6 @@ OSI_surgery/
 │   ├── layer5_session.py
 │   ├── layer6_presentation.py
 │   └── layer7_application.py
-├── utils/
-│   └── report_writer.py
 └── reports/
     └── <report_timestamp>.txt
 ```
